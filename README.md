@@ -6,7 +6,7 @@
 ## Download and Installation
 
 To begin using this template, choose one of the following options to get started:
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-freelancer.git`
+* Clone the repo: `git clone https://github.com/jharri34/up-surge.github.io.git`
 * Install via npm: `npm install`
 
 
